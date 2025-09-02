@@ -1,0 +1,17 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for CapitalOne guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search engine verification -->
+<meta name="google-site-verification" content="nSK8unydjKIIQiskWcyalOLyFzCb_zTmDDGyCsOAJHY" />
+    <!-- SEO meta -->
+    <meta name="description" content="Verify and activate your CapitalOne credit card at capitalone.com/verify. Step-by-step guide to secure your account, enable fraud protection, and start using rewards and mobile app features." />
+    <meta name="keywords" content="capitalone.com/verify, CapitalOne credit card verification, CapitalOne card activation, CapitalOne Verified Credit Card, CapitalOne secure account setup" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Title -->
+    <title>Verify and Activate Your CapitalOne Credit Card – Complete Guide</title>
+
+    {{ super() }}
+{% endblock %}
