@@ -6,7 +6,7 @@ Get Started with Secure Access, Rewards, and Online Account Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://q82.net/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate My Lowe’s Card
         </a>
     </div>
@@ -16,7 +16,7 @@ Activating your **Lowe’s SYF Credit Card** is quick, easy, and important for u
 What Is lowes.syf.com/activate and Why Is It Important?
 -------------------------------------------------------
 
-`lowes.syf.com/activate <https://q82.net/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU>`_ is Synchrony’s official portal to:
+`lowes.syf.com/activate <https://link72.com/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU>`_ is Synchrony’s official portal to:
 
 - Activate your new Lowe’s SYF credit card.  
 - Enable fraud and identity protection.  
@@ -95,10 +95,10 @@ Setting up your Lowe’s SYF Credit Card at `lowes.syf.com/activate <https://low
         <a href="https://lowes.syf.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My Card
         </a>
-        <a href="https://q82.net/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s SYF Login
         </a>
-        <a href="https://q82.net/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJ7Uo92I9MUc5jUQvZuTiaZOIzG2NEclniLPgRvmb4bIyhT40QnHTVVdF52YDcCzU" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s Credit Center
         </a>
     </div>
